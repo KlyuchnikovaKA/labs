@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\amirk\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\asvt\\httplab\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A62250B6-C59D-4A38-8E61-7CE54B4F52F0}|Lab6.Http.Application\\Lab6.Http.Application.csproj|c:\\users\\amirk\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\asvt\\httplab\\lab6.http.application\\storage\\userstorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A62250B6-C59D-4A38-8E61-7CE54B4F52F0}|Lab6.Http.Application\\Lab6.Http.Application.csproj|solutionrelative:lab6.http.application\\storage\\userstorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A62250B6-C59D-4A38-8E61-7CE54B4F52F0}|Lab6.Http.Application\\Lab6.Http.Application.csproj|c:\\users\\amirk\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\asvt\\httplab\\lab6.http.application\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A62250B6-C59D-4A38-8E61-7CE54B4F52F0}|Lab6.Http.Application\\Lab6.Http.Application.csproj|solutionrelative:lab6.http.application\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A4899ED-C7A8-4D49-AC45-2B32C725D44B}|Lab6.Http.Client\\Lab6.Http.Client.csproj|c:\\users\\amirk\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\asvt\\httplab\\lab6.http.client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A4899ED-C7A8-4D49-AC45-2B32C725D44B}|Lab6.Http.Client\\Lab6.Http.Client.csproj|solutionrelative:lab6.http.client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A4899ED-C7A8-4D49-AC45-2B32C725D44B}|Lab6.Http.Client\\Lab6.Http.Client.csproj|c:\\users\\amirk\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\asvt\\httplab\\lab6.http.client\\userapiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A4899ED-C7A8-4D49-AC45-2B32C725D44B}|Lab6.Http.Client\\Lab6.Http.Client.csproj|solutionrelative:lab6.http.client\\userapiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C71F727D-8375-4370-BBE3-BF3435C2A310}|Lab6.Http.Common\\Lab6.Http.Common.csproj|c:\\users\\amirk\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\asvt\\httplab\\lab6.http.common\\iuserapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C71F727D-8375-4370-BBE3-BF3435C2A310}|Lab6.Http.Common\\Lab6.Http.Common.csproj|solutionrelative:lab6.http.common\\iuserapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C71F727D-8375-4370-BBE3-BF3435C2A310}|Lab6.Http.Common\\Lab6.Http.Common.csproj|c:\\users\\amirk\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\asvt\\httplab\\lab6.http.common\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C71F727D-8375-4370-BBE3-BF3435C2A310}|Lab6.Http.Common\\Lab6.Http.Common.csproj|solutionrelative:lab6.http.common\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A62250B6-C59D-4A38-8E61-7CE54B4F52F0}|Lab6.Http.Application\\Lab6.Http.Application.csproj|c:\\users\\amirk\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\asvt\\httplab\\lab6.http.application\\controller\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A62250B6-C59D-4A38-8E61-7CE54B4F52F0}|Lab6.Http.Application\\Lab6.Http.Application.csproj|solutionrelative:lab6.http.application\\controller\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserApiClient.cs",
+              "DocumentMoniker": "C:\\Users\\amirk\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\asvt\\httplab\\Lab6.Http.Client\\UserApiClient.cs",
+              "RelativeDocumentMoniker": "Lab6.Http.Client\\UserApiClient.cs",
+              "ToolTip": "C:\\Users\\amirk\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\asvt\\httplab\\Lab6.Http.Client\\UserApiClient.cs",
+              "RelativeToolTip": "Lab6.Http.Client\\UserApiClient.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA1wCQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T20:37:56.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserStorage.cs",
+              "DocumentMoniker": "C:\\Users\\amirk\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\asvt\\httplab\\Lab6.Http.Application\\Storage\\UserStorage.cs",
+              "RelativeDocumentMoniker": "Lab6.Http.Application\\Storage\\UserStorage.cs",
+              "ToolTip": "C:\\Users\\amirk\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\asvt\\httplab\\Lab6.Http.Application\\Storage\\UserStorage.cs",
+              "RelativeToolTip": "Lab6.Http.Application\\Storage\\UserStorage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T20:37:16.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\amirk\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\asvt\\httplab\\Lab6.Http.Client\\Program.cs",
+              "RelativeDocumentMoniker": "Lab6.Http.Client\\Program.cs",
+              "ToolTip": "C:\\Users\\amirk\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\asvt\\httplab\\Lab6.Http.Client\\Program.cs",
+              "RelativeToolTip": "Lab6.Http.Client\\Program.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAuwHAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T20:38:10.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\amirk\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\asvt\\httplab\\Lab6.Http.Application\\Program.cs",
+              "RelativeDocumentMoniker": "Lab6.Http.Application\\Program.cs",
+              "ToolTip": "C:\\Users\\amirk\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\asvt\\httplab\\Lab6.Http.Application\\Program.cs",
+              "RelativeToolTip": "Lab6.Http.Application\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwCUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T20:38:54.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\amirk\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\asvt\\httplab\\Lab6.Http.Application\\Controller\\UserController.cs",
+              "RelativeDocumentMoniker": "Lab6.Http.Application\\Controller\\UserController.cs",
+              "ToolTip": "C:\\Users\\amirk\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\asvt\\httplab\\Lab6.Http.Application\\Controller\\UserController.cs",
+              "RelativeToolTip": "Lab6.Http.Application\\Controller\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T20:37:39.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IUserApi.cs",
+              "DocumentMoniker": "C:\\Users\\amirk\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\asvt\\httplab\\Lab6.Http.Common\\IUserApi.cs",
+              "RelativeDocumentMoniker": "Lab6.Http.Common\\IUserApi.cs",
+              "ToolTip": "C:\\Users\\amirk\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\asvt\\httplab\\Lab6.Http.Common\\IUserApi.cs",
+              "RelativeToolTip": "Lab6.Http.Common\\IUserApi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T20:36:22.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\amirk\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\asvt\\httplab\\Lab6.Http.Common\\User.cs",
+              "RelativeDocumentMoniker": "Lab6.Http.Common\\User.cs",
+              "ToolTip": "C:\\Users\\amirk\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\asvt\\httplab\\Lab6.Http.Common\\User.cs",
+              "RelativeToolTip": "Lab6.Http.Common\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T20:35:40.025Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
