@@ -58,7 +58,7 @@
 ### Установка
 1. Клонируйте репозиторий:
    ```bash
-   git clone https://github.com/your-repo/lab5.network.git
+   git clone https://github.com/KlyuchnikovaKA/labs/tree/master/fifthlab
    ```
 2. Откройте проект в Visual Studio 2022.
 3. Постройте решение (`Build Solution`).
